@@ -17,7 +17,7 @@
 ## Running the Game
 You can run the game from your terminal using the following command:
 
->python3 snake.py [flags]
+>python3 snake.py
 
 ## Enjoy playing the Python Snake Game, and feel free to contribute to the project or share your feedback!
 
